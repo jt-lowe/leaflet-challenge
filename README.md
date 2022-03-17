@@ -1,6 +1,9 @@
 # leaflet-challenge
 ## Monash Data Course Wk 17
 
+## Deployment available here
+https://jt-lowe.github.io/leaflet-challenge/
+
 
 ### Earthquake Locations - Color and Size
 
